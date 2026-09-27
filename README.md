@@ -7,19 +7,6 @@
 ![help](https://github.com/user-attachments/assets/0b02ef9d-c5d8-430d-a598-fc1e88cc3a9b)
 
 
-A pixel-perfect clone of [Weaave.ai](https://weaave.ai) — a visual workflow builder for LLM-powered automations. Built with React Flow, Google Gemini AI, and Trigger.dev.
-
-
-
-**Demo Video (App Walkthrough):**
-https://drive.google.com/file/d/1nvQmwF1iAUaH0JjeI3jRUtwsZ-R7XV3T/view?usp=sharing
-
-**Workflow & Parallel Execution Explanation:**
-https://www.loom.com/share/8477ddcaf092496b9cdf5df1c54947e7
-
-> The first video gives a full, user-friendly walkthrough of all sections of the app.
-> The second video focuses specifically on the workflow logic and true parallel execution.
-
 
 ---
 
